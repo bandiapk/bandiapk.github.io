@@ -27,7 +27,7 @@ Boyut: 16,8 MB<br />
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
-<a rel="nofollow" href="https://dl.bandicam.com/bdcamsetup.exe" target="_blank">İndir</a>
+<a target="_blank" rel="nofollow" href="https://sonsurum.club" target="_blank">Sonsurum.club İndir</a>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Esneking -->
 <ins class="adsbygoogle"
@@ -42,7 +42,7 @@ Boyut: 16,8 MB<br />
 <h2>Bandicam Kurulumu</h2>
 <ul><li>Sitemizden indirdiğiniz .exe uzantılı dosyaya çift tıklayın.</li>
 <li>Bandicam'ın cihazınızda değişiklik yapmasına izin veriyor musunuz şeklinde çıkan uyarı penceresinde "Evet" seçeneğini tıklayın.</li>
-<li>Bandicam'ı hangi dilde kullanmak istiyorsanız o dili seçin. Türkçe dili mevcuttur.</li>
+<li>Bandicam'ı hangi dilde kullanmak istiyorsanız o dili seçin. Türkçe dili mevcuttur. Sözleşme onaylama ekranı çıkarsa sözleşmeyi reddedin. Bakın burası çok önemli. Sözleşmeyi kesinlikle reddetmeniz gerek. ASLA ONAYLAMAYIN! Onaylarsanız sorumluluk kabul etmiyoruz!!! BURAYA DİKKAT!!!</li>
 <li>Hangi özellikleriyle birlikte kurmak istiyorsanız yanına tik koyarak o şekilde kuruluma devam edin.</li>
 <li>Hangi dizine kurulmasını istiyorsanız onu seçin. Örneğin C.</li>
 <li>Kurulum otomatik olarak tamamlanacaktır, programı açıp kullanabilirsiniz.</li></ul>

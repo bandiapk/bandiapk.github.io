@@ -28,16 +28,6 @@ Boyut: 16,8 MB<br />
 </script>
 </center>
 <a target="_blank" rel="nofollow" href="https://sonsurum.club" target="_blank">Sonsurum.club İndir</a>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Esneking -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="4659442398"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 </center>
 <h2>Bandicam Kurulumu</h2>
 <ul><li>Sitemizden indirdiğiniz .exe uzantılı dosyaya çift tıklayın.</li>

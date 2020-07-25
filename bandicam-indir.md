@@ -49,4 +49,3 @@ Boyut: 16,8 MB<br />
 <h3>Bandicam Kurulumu Resimli Anlatım<h3/>
 <img src="https://bandicam.sonsurum.club/bandicam-kurulumu1.jpg">
 <img src="https://bandicam.sonsurum.club/bandicam-kurulumu2.jpg">
-<img src="https://bandicam.sonsurum.club/bandicam-kurulumu3.jpg">
